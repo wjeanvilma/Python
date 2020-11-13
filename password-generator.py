@@ -26,4 +26,4 @@ password_string = ""
 for i in password:
     password_string += i
 
-print(password_string)
+print(f"Your password is: {password_string}")
